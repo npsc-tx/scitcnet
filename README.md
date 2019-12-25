@@ -1,5 +1,6 @@
-# scitcnet
-校园网认证客户端
+# 四川信息职业技术学院 校园网认证客户端
+
+![1](https://images.cnblogs.com/cnblogs_com/anbus/1348980/o_1912251248161.png)
 
 ----
 
